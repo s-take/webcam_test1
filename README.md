@@ -1,16 +1,16 @@
-# webrtc test 001
+# webcam test 001
 
-## ŠT—v
-ƒJƒƒ‰‚ÅŽB‰e‚µ‚½‰æ‘œ‚ðƒtƒ@ƒCƒ‹‚É•Û‘¶‚·‚é
+## æ¦‚è¦
+ã‚«ãƒ¡ãƒ©ã§æ’®å½±ã—ãŸç”»åƒã‚’ãƒ•ã‚¡ã‚¤ãƒ«ã«ä¿å­˜ã™ã‚‹
 
-### €”õ
+### æº–å‚™
     bundle install --path .bundle
 
-### ƒT[ƒo‹N“®
+### ã‚µãƒ¼ãƒèµ·å‹•
     bundle exec rackup -p 3000 -E production
 
-### Ú‘±æURL
+### æŽ¥ç¶šå…ˆURL
 http://localhost:3000
 
-### ‰æ‘œ•Û‘¶æ
+### ç”»åƒä¿å­˜å…ˆ
 ./photo
